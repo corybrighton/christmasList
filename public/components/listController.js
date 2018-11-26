@@ -10,5 +10,8 @@ export default class ListController {
   constructor() {
     _ls.getList(draw)
   }
+  addItem(event) {
+
+  }
 }
 
